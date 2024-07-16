@@ -1,0 +1,43 @@
+* {
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 20px;
+    color: #c54c4c;
+}
+
+h2 {
+    margin: 16px;
+    color: #d8a8a8;
+}
+
+h3 {
+    margin: 12px;
+    color: #dc854b;
+}
+
+p, ul, ol {
+    color: #eee;
+}
+
+p {
+    margin: 20px;
+}
+
+ul, ol {
+    margin: 40px;
+}
+
+li {
+    padding: 8px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin: 0 20px 0 20px;
+}

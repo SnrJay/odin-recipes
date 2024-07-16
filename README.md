@@ -10,3 +10,6 @@ A quick summary of the journey so far;
 3. I have a better understanding of html elements and the functions.
 
 I'm very happy with how much i've learnt, even though I know the real challenges haven't started yet I'm really looking forward to it
+
+16/07/24
+ive added basic styles to my recipe website
